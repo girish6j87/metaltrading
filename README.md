@@ -1,1 +1,1 @@
-# metaltrading
+# Metallica metal trading application
